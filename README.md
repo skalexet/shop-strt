@@ -2,4 +2,4 @@
 
 simple react-app
 
-in a deloping status now
+in a developing status now
